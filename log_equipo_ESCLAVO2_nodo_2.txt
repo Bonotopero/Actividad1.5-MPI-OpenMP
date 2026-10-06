@@ -1,0 +1,12 @@
+==========================================================================
+REGISTRO DE AUDITORIA - PRACTICA 1.5: BUSQUEDA PARALELA DISTRIBUIDA
+EQUIPO: EQUIPO 7 | INTEGRANTE: ANGULO DIAZ JULIO ABRAHAM
+==========================================================================
+Host Name         : ESCLAVO2
+Nodo MPI (Rank)   : 2 de 3
+Hilos OpenMP/Nodo : 4
+==========================================================================
+
+[ACCION] Generacion de arreglo dinamico completada. N = 100 | Target = 157
+[ACCION] Ordenamiento completado. Estado Ordenado: 1
+Cierre del proceso de ejecucion en el Nodo 2.

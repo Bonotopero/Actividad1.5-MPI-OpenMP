@@ -1,0 +1,14 @@
+==========================================================================
+REGISTRO DE AUDITORIA - PRACTICA 1.5: BUSQUEDA PARALELA DISTRIBUIDA
+EQUIPO: EQUIPO 7 | INTEGRANTE: ANGULO DIAZ JULIO ABRAHAM
+==========================================================================
+Host Name         : WIN-AVI5NBOUPA5
+Nodo MPI (Rank)   : 1 de 3
+Hilos OpenMP/Nodo : 4
+==========================================================================
+
+[ACCION] Generacion de arreglo dinamico completada. N = 100 | Target = 157
+[ACCION] Ordenamiento completado. Estado Ordenado: 1
+[Equipo: WIN-AVI5NBOUPA5] [Nodo MPI: 1] [Hilo OpenMP: 2] [Bloque: 33-65] [Busqueda Secuencial Distribuida] -> Hallado en Indice Global: 51
+[Equipo: WIN-AVI5NBOUPA5] [Nodo MPI: 1] [Hilo OpenMP: 2] [Bloque: 49-56] [Busqueda Binaria Distribuida] -> Hallado en Indice Global: 51
+Cierre del proceso de ejecucion en el Nodo 1.

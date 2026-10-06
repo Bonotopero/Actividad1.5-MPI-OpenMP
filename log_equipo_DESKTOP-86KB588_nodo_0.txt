@@ -1,0 +1,17 @@
+==========================================================================
+REGISTRO DE AUDITORIA - PRACTICA 1.5: BUSQUEDA PARALELA DISTRIBUIDA
+EQUIPO: EQUIPO 7 | INTEGRANTE: ANGULO DIAZ JULIO ABRAHAM
+==========================================================================
+Host Name         : DESKTOP-86KB588
+Nodo MPI (Rank)   : 0 de 1
+Hilos OpenMP/Nodo : 4
+==========================================================================
+
+[ACCION] Generacion de arreglo dinamico completada. N = 100 | Target = 157
+[ACCION] Ordenamiento completado. Estado Ordenado: 1
+[Equipo: DESKTOP-86KB588] [Nodo MPI: 0] [Hilo OpenMP: 2] [Busqueda Secuencial Local] -> Hallado en indice: 51
+[Equipo: DESKTOP-86KB588] [Nodo MPI: 0] [Hilo OpenMP: 2] [Bloque: 0-99] [Busqueda Secuencial Distribuida] -> Hallado en Indice Global: 51
+[Equipo: DESKTOP-86KB588] [Nodo MPI: 0] [Hilo OpenMP: 2] [Bloque: 50-74] [Busqueda Binaria Local] -> Hallado en Indice Global: 51
+[Equipo: DESKTOP-86KB588] [Nodo MPI: 0] [Hilo OpenMP: 2] [Bloque: 50-74] [Busqueda Binaria Distribuida] -> Hallado en Indice Global: 51
+[ACCION] Generacion de arreglo dinamico completada. N = 10000000 | Target = 16688
+[ACCION] Ordenamiento completado. Estado Ordenado: 1
